@@ -1,7 +1,5 @@
 Hi, I’m @StvnCapi, university student who learns DB, frontend and backend every day 
-
 My level of english is not bad and i trying my best to improve
-
 How to become a good person?
 
 <!---
